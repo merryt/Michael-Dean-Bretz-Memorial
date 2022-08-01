@@ -18,6 +18,16 @@ require('tls');
 require('async_hooks');
 require('console');
 require('zlib');
+require('node:http');
+require('node:https');
+require('node:zlib');
+require('node:stream');
+require('node:buffer');
+require('node:util');
+require('node:url');
+require('node:net');
+require('node:fs');
+require('node:path');
 require('crypto');
 
 var setCookie = {exports: {}};
@@ -258,6 +268,10 @@ function split_headers(headers) {
  */
 function init(manifest) {
 	const server = new _0SERVER.Server(manifest);
+
+	server.init({
+		env: process.env
+	});
 
 	return async (event, context) => {
 		const response = await server.respond(to_request(event), {

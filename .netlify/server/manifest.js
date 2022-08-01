@@ -28,7 +28,7 @@ const manifest = {
   assets: /* @__PURE__ */ new Set(["favicon.png", "hero.jpg", "profile.jpg", "profile.jpg:Zone.Identifier"]),
   mimeTypes: { ".png": "image/png", ".jpg": "image/jpeg" },
   _: {
-    entry: { "file": "start-e648f779.js", "js": ["start-e648f779.js", "chunks/index-77306f72.js", "chunks/preload-helper-60cab3ee.js"], "css": [] },
+    entry: { "file": "start-910aa05f.js", "js": ["start-910aa05f.js", "chunks/index-77306f72.js", "chunks/preload-helper-60cab3ee.js"], "css": [] },
     nodes: [
       () => Promise.resolve().then(() => __toESM(require("./nodes/0.js"))),
       () => Promise.resolve().then(() => __toESM(require("./nodes/1.js"))),
