@@ -12,7 +12,6 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-netlify": "next",
-		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"autoprefixer": "^10.4.7",
 		"eslint": "^8.18.0",
