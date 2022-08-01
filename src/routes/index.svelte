@@ -37,9 +37,9 @@
 		</p>
 		<p>
 			He is survived by his children, his parents, and his three sisters. In lieu of flowers, please
-			consider a donation in Mike’s name to the Lutheran Hospice facility as the family
+			consider a donation in Mike’s name to the Lutheran Hospice facility as the family or a charity
+			of your choice
 		</p>
-		<p>the family suggests donations be made in Mike’s name to the charity of your choice.</p>
 		<p>A memorial will be held in his honor at XXX on [DATE AND TIME].</p>
 	</Tile>
 	<Tile title="Memorial" class="col-span-full">
