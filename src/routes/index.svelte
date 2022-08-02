@@ -38,6 +38,7 @@
 		<p>
 			He is survived by his children, his parents, and his three sisters. In lieu of flowers, please
 			consider a donation to <a
+				class="link"
 				href="https://www.google.com/url?q=https://www.sclhealth.org/locations/lutheran-medical-center-foundation/donate/&sa=D&source=hangouts&ust=1659549140304000&usg=AOvVaw1hybV5fZNMJthnA2y-U5cp"
 				>Lutheran Hospice facility</a
 			> in Mike's name. Or to the charity of your choice.
