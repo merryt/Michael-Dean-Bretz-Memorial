@@ -18,7 +18,7 @@
 	</div>
 </div>
 <main class="container mx-auto w-full grid grid-cols-2 gap-5 justify-between p-5 md:px-0">
-	<Tile title="Obituary" class="col-span-full">
+	<Tile title="Obituary" width="full">
 		<p>Michael Dean Bretz passed on July 31st 2020 at age 64 after a long battle against cancer.</p>
 		<p>
 			Mike was born to Nicholas and Barbara Bretz in Arvada, Colorado. He was the oldest of four 4
@@ -44,7 +44,7 @@
 		</p>
 		<p>A memorial will be held in his honor at XXX on [DATE AND TIME].</p>
 	</Tile>
-	<Tile title="Memorial" class="col-span-full">
+	<Tile title="Memorial" width="full">
 		<p>A service will be held on ...</p>
 	</Tile>
 	<Tile title="Photos">
