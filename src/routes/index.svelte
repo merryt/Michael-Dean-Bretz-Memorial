@@ -19,31 +19,47 @@
 </div>
 <main class="container mx-auto w-full grid grid-cols-2 gap-5 justify-between p-5 md:px-0">
 	<Tile title="Obituary" width="full">
-		<p>Michael Dean Bretz passed on July 31st 2020 at age 64 after a long battle against cancer.</p>
 		<p>
-			Mike was born to Nicholas and Barbara Bretz in Arvada, Colorado. He was the oldest of four 4
-			children. Mike graduated from Arvada High School, attained a Bachelor of Science from Regis
-			University and a Masters Degree of Environmental Policy and Management from the University of
-			Denver. Throughout his career, he managed environmental restoration and hazardous waste which
-			took him to Boston, St. Louis, Kansas City, Leadville, and Eastern Washington. Throughout his
-			life Mike was active in the Arvada community; he was an Arvada Volunteer Firefighter, a
-			catcher in the Men's Senior Recreational Baseball Association, and spent many summers
-			volunteering with the Arvada Farmers Market. Above all Mike was an immensely dedicated father
-			to his two children Randi and Dylan. His children fondly remember Mike’s unique and
-			identifiable whistle, which could always be heard from the sidelines of their various sporting
-			events. Additionally, Mike and his children built wood furnishings together (as Mike was a
-			skilled wood craftsman), and enjoyed countless bike rides and camping trips across Colorado.
-			He will be greatly missed by his friends and family.
+			Michael Dean Bretz passed on Saturday July 30, 2022, at age 64 after a long battle against
+			cancer.
 		</p>
 		<p>
-			He is survived by his children, his parents, and his three sisters. In lieu of flowers, please
-			consider a donation to <a
+			Michael was born on May 4, 1958, to Nicholas and Barbara (Catron) Bretz at Mercy Hospital in
+			Denver, Colorado. He was the oldest of four children. Mike graduated from Arvada High School,
+			where he played trumpet in the Arvada High School concert, jazz, and marching bands and
+			enjoyed trips the band took to other cities and states. His first job was with the Rocky
+			Mountain News where he and his friends loaded many pounds of newspapers on their bikes before
+			riding up and down the hills of northern Arvada delivering papers every day of the week. He
+			later worked at McDonald’s to earn funds to purchase his beloved 1970 Pontiac GTO. After high
+			school, Mike worked in construction before seeking employment at Rocky Flats at which time he
+			began seeking his college education. He earned his Bachelor of Science degree from Regis
+			University, and a Master of Science degree in Environmental Policy and Management from the
+			University of Denver.  Then he managed environmental restoration and hazardous waste projects
+			which took him to Boston, St. Louis, Kansas City, Leadville, and Eastern Washington, as well
+			as here in Colorado. Throughout his life Mike was active in the Arvada community; he was an
+			Arvada Volunteer Firefighter, a catcher in the Men&#39;s Senior Recreational Baseball
+			Association, and spent many summers volunteering with the Arvada Farmers Market. Above all
+			Mike was an immensely dedicated father to his two children Miranda (Randi) and Dylan. His
+			children fondly remember Mike’s unique and identifiable whistle, which could always be heard
+			from the sidelines of their various sporting events. Additionally, Mike with his children,
+			built wood furnishings together as Mike was a skilled wood craftsman, and enjoyed countless
+			bike rides and camping trips across Colorado. He will be greatly missed by his friends and
+			family.
+		</p>
+		<p>
+			He is survived by his daughter Miranda Merry (Tyler), son Dylan, his parents, sisters;
+			Michelle Bretz, Denise Newell, and Sherri Schmallen (Paul) as well as many aunts, uncles,
+			nieces, nephews, and cousins. In lieu of flowers, the family suggests donations be made in
+			Mike’s name to <a
 				class="link"
 				href="https://www.google.com/url?q=https://www.sclhealth.org/locations/lutheran-medical-center-foundation/donate/&sa=D&source=hangouts&ust=1659549140304000&usg=AOvVaw1hybV5fZNMJthnA2y-U5cp"
-				>Lutheran Hospice facility</a
-			> in Mike's name. Or to the charity of your choice.
+				>Collier Lutheran Hospice Center</a
+			> or the charity of your choice.
 		</p>
-		<p>A memorial will be held in his honor at XXX on [DATE AND TIME].</p>
+		<p>
+			Recitation of the Rosary will be held at 10:30 AM and Funeral Mass at 11:00 AM on August 16,
+			2022, at Spirit of Christ Catholic Community Church, 7400 W. 80 th Ave, Arvada, CO.
+		</p>
 	</Tile>
 	<Tile title="Memorial" width="full">
 		<p>A service will be held on ...</p>
