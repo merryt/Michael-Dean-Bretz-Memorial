@@ -12,7 +12,7 @@
 		<div class="w-full text-center md:text-left">
 			<h1 class="md:mb-5 text-5xl font-bold">Mike Bretz</h1>
 			<p>Son, Father, Brother, and Friend</p>
-			<p>May 4th 1958 - July 31 2022</p>
+			<p>May 4th 1958 - July 30 2022</p>
 		</div>
 		<img class="rounded-full w-48 h-68" src="/profile.jpg" alt="" />
 	</div>
