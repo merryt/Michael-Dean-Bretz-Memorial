@@ -72,7 +72,7 @@
 	</Tile>
 	<Tile title="Video of life">
 		<div class="video-container">
-			<iframe src="https://www.youtube.com/embed/dKVDJlAh_sk" />
+			<iframe src="https://www.youtube.com/embed/T3wep32pm2o" />
 		</div>
 	</Tile>
 </main>
