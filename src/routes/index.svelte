@@ -34,17 +34,16 @@
 			school, Mike worked in construction before seeking employment at Rocky Flats at which time he
 			began seeking his college education. He earned his Bachelor of Science degree from Regis
 			University, and a Master of Science degree in Environmental Policy and Management from the
-			University of Denver.  Then he managed environmental restoration and hazardous waste projects
+			University of Denver. Then he managed environmental restoration and hazardous waste projects
 			which took him to Boston, St. Louis, Kansas City, Leadville, and Eastern Washington, as well
 			as here in Colorado. Throughout his life Mike was active in the Arvada community; he was an
-			Arvada Volunteer Firefighter, a catcher in the Men&#39;s Senior Recreational Baseball
-			Association, and spent many summers volunteering with the Arvada Farmers Market. Above all
-			Mike was an immensely dedicated father to his two children Miranda (Randi) and Dylan. His
-			children fondly remember Mike’s unique and identifiable whistle, which could always be heard
-			from the sidelines of their various sporting events. Additionally, Mike with his children,
-			built wood furnishings together as Mike was a skilled wood craftsman, and enjoyed countless
-			bike rides and camping trips across Colorado. He will be greatly missed by his friends and
-			family.
+			Arvada Volunteer Firefighter, a catcher in the Men's Senior Recreational Baseball Association,
+			and spent many summers volunteering with the Arvada Farmers Market. Above all Mike was an
+			immensely dedicated father to his two children Miranda (Randi) and Dylan. His children fondly
+			remember Mike’s unique and identifiable whistle, which could always be heard from the
+			sidelines of their various sporting events. Additionally, Mike with his children, built wood
+			furnishings together as Mike was a skilled wood craftsman, and enjoyed countless bike rides
+			and camping trips across Colorado. He will be greatly missed by his friends and family.
 		</p>
 		<p>
 			He is survived by his daughter Miranda Merry (Tyler), son Dylan, his parents, sisters;
@@ -53,8 +52,8 @@
 			Mike’s name to <a
 				class="link"
 				href="https://www.google.com/url?q=https://www.sclhealth.org/locations/lutheran-medical-center-foundation/donate/&sa=D&source=hangouts&ust=1659549140304000&usg=AOvVaw1hybV5fZNMJthnA2y-U5cp"
-				>Collier Lutheran Hospice Center</a
-			> or the charity of your choice.
+				>Collier Lutheran Hospice Center.</a
+			>
 		</p>
 	</Tile>
 	<Tile title="Memorial" width="full">
