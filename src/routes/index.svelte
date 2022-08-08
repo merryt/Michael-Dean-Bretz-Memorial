@@ -56,10 +56,6 @@
 				>Collier Lutheran Hospice Center</a
 			> or the charity of your choice.
 		</p>
-		<p>
-			Recitation of the Rosary will be held at 10:30 AM and Funeral Mass at 11:00 AM on August 16,
-			2022, at Spirit of Christ Catholic Community Church, 7400 W. 80 th Ave, Arvada, CO.
-		</p>
 	</Tile>
 	<Tile title="Memorial" width="full">
 		<p>
