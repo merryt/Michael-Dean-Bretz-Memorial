@@ -52,8 +52,8 @@
 			Mike’s name to <a
 				class="link"
 				href="https://www.google.com/url?q=https://www.sclhealth.org/locations/lutheran-medical-center-foundation/donate/&sa=D&source=hangouts&ust=1659549140304000&usg=AOvVaw1hybV5fZNMJthnA2y-U5cp"
-				>Collier Lutheran Hospice Center.</a
-			>
+				>Collier Lutheran Hospice Center</a
+			>.
 		</p>
 	</Tile>
 	<Tile title="Memorial" width="full">
