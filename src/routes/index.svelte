@@ -62,7 +62,12 @@
 		</p>
 	</Tile>
 	<Tile title="Memorial" width="full">
-		<p>A service will be held on ...</p>
+		<p>
+			Please join us for the Recitation of the Rosary and Funeral Mass, Tuesday August 16, 2022 at
+			Spirit of Christ Catholic Communicy Church in Arvada, Colorado for Rosary (10:30AM, Spirt
+			Center Central) and Mass of Chirstian Burial (11:00AM, Church), with a reception luncheon to
+			follow.
+		</p>
 	</Tile>
 	<Tile title="Photos">
 		<Photos />
