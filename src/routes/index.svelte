@@ -59,12 +59,12 @@
 	<Tile title="Recitation of the Rosary & Funeral Mass" width="full">
 		<p>
 			Tuesday August 16, 2022 <br />
-			Spirit of Christ Catholic Communicy Church <br />
+			Spirit of Christ Catholic Community Church <br />
 			Arvada, Colorado
 		</p>
 		<h3 class="font-medium leading-tight text-l">Rosary</h3>
-		<p>10:30AM, Spirt Center Central</p>
-		<h3 class="font-medium leading-tight text-l">Mass of Chirstian Burial</h3>
+		<p>10:30AM, Spirit Center Central</p>
+		<h3 class="font-medium leading-tight text-l">Mass of Christian Burial</h3>
 		<p>11:00AM, Church</p>
 		<p>The family cordially invites you to a reception luncheon to follow</p>
 	</Tile>
